@@ -1,0 +1,23 @@
+{
+    "name": "crgao/ip2region",
+    "description": "Ip2Region for PHP",
+    "type": "library",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "crgao",
+            "email": "crgao512@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "Ip2Region.php"
+        ]
+    },
+    "keywords": [
+        "Ip2Region"
+    ]
+}
